@@ -1,6 +1,6 @@
 # Real-Time Timeseries Plotter
 
-This project provides a real-time timeseries plotter built with PyQt5 and Matplotlib. The application displays a timeseries with dynamic updates, plotting random data values over time. It includes a rolling mean line to visualize trends in the data.
+This project provides a real-time timeseries plotter built with PyQt5 and Matplotlib. The application displays a timeseries with dynamic updates, plotting random data values over time. It includes a rolling mean line to visualize trends in the data. This project can be used a project to build apon for building software where data would need to be visualised in real time such as visualising neural signals or stock market data.
 
 ## Features
 - Real-time updating plot using Matplotlib.
